@@ -55,12 +55,6 @@ Il report segue il framework standard per il penetration testing:
 - **Rimozione dell'accesso anonimo FTP** e impostazione di permessi adeguati.
 - **Crittografia delle credenziali sensibili** e utilizzo di password sicure.
 
-## Come Utilizzare il Report
-
-- Seguire il report per replicare il penetration test.
-- Usare il report come riferimento per pratiche di sicurezza.
-- Non utilizzare per scopi non etici.
-
 ## Autore
 
 **Marika Spagna Zito**  
